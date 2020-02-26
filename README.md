@@ -1,4 +1,4 @@
-## CS889---Human-What-Do-I-Do-A-Study-on-Intervene-Input-Methods-for-Autonomous-Vehicles
+## CS889 - Human What Do I Do-A Study on Intervene Input Methods for Autonomous Vehicles
 CS889 Course Paper - Winter 2018
 
 As autonomous vehicles get more advanced, we need to ensure that users are able to be confident in these vehicles and trust them, in order for them to be a success. This is especially hard in some autonomy levels such as the Level 3 Conditional Automation, where participants don't have to pay attention all the time but need to be available for the car if a request to intervene is invoked by the car. One way we see autonomous vehicles being able to build trust with users is to allow users to know that given a situation where there is a request to intervene, the user can input their decision quickly - especially in the case of cooperative driving environments.
